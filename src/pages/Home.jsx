@@ -8,7 +8,7 @@ import {
 import { Link } from "react-router-dom";
 
 // Import Assets
-import cloudexifyLogo from "../assets/cloudexify-logo.png";
+//import cloudexifyLogo from "../assets/cloudexify-logo.png";
 import certAiAgents from "../assets/cert-ai-agents.jpg";
 import certN8N from "../assets/cert-n8n.jpg";
 
@@ -194,7 +194,7 @@ const Home = () => {
           <div className="relative scale-50 md:scale-75 lg:scale-100 lg:-translate-y-24">
             {/* Main Circular Logo with rotating multi-colored border */}
             <motion.a
-              href="https://cloudexify.site"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               initial={{ opacity: 0, scale: 0.8 }}
