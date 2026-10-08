@@ -8,7 +8,7 @@ import {
 import { Link } from "react-router-dom";
 
 // Import Assets
-//import cloudexifyLogo from "../assets/cloudexify-logo.png";
+import cloudexifyLogo from "../assets/cloudexify-logo.png";
 import certAiAgents from "../assets/cert-ai-agents.jpg";
 import certN8N from "../assets/cert-n8n.jpg";
 
